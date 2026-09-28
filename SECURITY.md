@@ -1,6 +1,6 @@
 # Security Policy
 
-MODX takes the security of its software seriously. If you believe you have
+MOREDX  takes the security of its software seriously. If you believe you have
 found a vulnerability in MODX Revolution, please follow the responsible
 disclosure process described below.
 
